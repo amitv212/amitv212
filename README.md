@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
-<h3 align="center">I am a first year Computer Science student at Vellor Institute of Technology</h3>
+<h3 align="center">I am a second year Computer Science student at Vellor Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitv212&label=Profile%20views&color=0e75b6&style=flat" alt="amitv212" /> </p>
 
